@@ -1,0 +1,51 @@
+OBJECTID_1,NAME,ELEV,TYPE,FIPS_CNTRY,COUNTRY,x,y
+1,Mesa Nevada deHerveo,5590,Solfatara stage,CO,Colombia,-75.46637465,5.301321249
+2,Cumbal,4764,Active,EC,Ecuador,-77.88309958,-0.98169268
+3,Nevado Coropuna,6621,Solfatara stage,PE,Peru,-72.69962472,-15.51440728
+4,Nevado Sajama,6529,Potentially active,BL,Bolivia,-68.88285685,-18.11431918
+5,De Sacabaya,4150,Solfatara stage,BL,Bolivia,-68.782855,-18.61430476
+6,Cerro Tulapalca,4780,Potentially active,CI,Chile,-69.46620599,-18.69763514
+7,Viedma,1300,Solfatara stage,AR,Argentina,-73.33281719,-49.41459001
+8,Cerro Burney,1750,Active,CI,Chile,-73.3994439,-52.33139842
+9,Guallatiri,6060,Active,BL,Bolivia,-69.04844125,-18.40579621
+10,Tanaga,2138,Active,US,United States,-178.1190252,51.88220941
+11,Mt. Moffett,1196,Solfatara stage,US,United States,-176.7523291,51.93223619
+12,Adak,631,Solfatara stage,US,United States,-176.6023376,51.98223811
+13,Great Sitkin,1754,Active,US,United States,-176.1190347,52.06557933
+14,Korovin,1489,Active,US,United States,-174.1690516,52.38228621
+15,Mt. Kliuchef,915,Solfatara stage,US,United States,-174.15234,52.31562565
+16,Pico de Orizaba,5675,Active,MX,Mexico,-97.28360113,19.03397684
+17,San Martin,1550,Active,MX,Mexico,-95.16686891,18.58399869
+18,Pacaya,2552,Active,GT,Guatemala,-90.60008765,14.38419792
+19,Tequamburro,1840,Solfatara stage,GT,Guatemala,-90.41674192,14.15087927
+20,Ahuachapan,1436,Solfatara stage,ES,El Salvador,-89.76673788,13.75089888
+21,Cosiguina,859,Active,NU,Nicaragua,-87.56668396,12.98426671
+22,Orosi,1440,Active,CS,Costa Rica,-85.46662422,10.98436559
+23,Mt. St. Catherine,840,Potentially active,GJ,Grenada,-61.66603901,12.15094813
+24,Soufriere,1178,Active,VC,St. Vincent and the Grenadines,-61.18268372,13.33421583
+25,Wallibou,777,Active,ST,St. Lucia,-61.04934725,13.8341899
+26,Submarine volcano,-500,Active, , ,-61.06601823,14.03417976
+27,Montagne Pelee,1397,Active,MB,Martinique,-61.16602025,14.81748141
+28,Morne Patates,525,Solfatara stage,DO,Dominica,-61.36602062,15.21746096
+29,Submarine volcano,-200,Active,US,United States,-150.1191069,57.91613945
+30,Nevis Peak,985,Active,SC,St. Kitts and Nevis,-62.58270231,17.15069969
+31,Quill,601,Potentially active,NT,Netherlands Antilles,-62.94938294,17.48401484
+32,Mountain,887,Potentially active,NT,Netherlands Antilles,-63.23271819,17.63400845
+33,Barcena,375,Active,MX,Mexico,-110.8006147,19.2672728
+34,Socorro,1000,Active,MX,Mexico,-111.9506345,18.75062292
+35,Tacana,4092,Active,MX,Mexico,-92.12225351,15.12586573
+36,Conchaguita,550,Active,ES,El Salvador,-87.76668617,13.20092605
+37,Koniuji,270,Active,US,United States,-175.1356435,52.21560745
+38,Collie Evganel Group,600,Solfatara stage,IT,Italy,11.66868667,45.24881743
+39,Susaki,180,Solfatara stage,GR,Greece,23.06837914,37.93219821
+40,Eldborg,112,Active,IC,Iceland,-22.31362151,64.78290995
+41,Pico,2351,Active,PO,Portugal,-28.39843087,38.46629206
+42,Kazbek,5047,Potentially active,RS,Russia,44.53478713,42.76504436
+43,Graciosa,402,Solfatara stage,PO,Portugal,-27.9650805,39.01627222
+44,Loloru,1894,Solfatara stage,PP,Papua New Guinea,155.6154116,-6.514527114
+45,Simbo,312,Solfatara stage,BP,Solomon Islands,156.5153901,-8.2977202
+46,Yasur Volcano,350,Active,NH,Vanuatu,169.4318198,-19.51370938
+47,Mt.Matavanu,708,Active,WS,Western Samoa,-172.3681738,-13.51417712
+48,Mauga Afi,1599,Active,WS,Western Samoa,-172.5347701,-13.51417612
+49,Submarine volcano,-46,Active, , ,-169.6014774,-14.19748492
+50,Submarine volcano,0,Active,TN,Tonga,-173.8514954,-15.31406553

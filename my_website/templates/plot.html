@@ -1,0 +1,14 @@
+{% extends "layout.html" %}
+{% block content %}
+<link rel="stylesheet" href={{"https://cdn.bokeh.org/bokeh/release/bokeh-x.y.z.min.css" | safe}} type="text/css" />
+<script type="text/javascript" src={{cdn_js | safe}}></script>
+
+<div class="plot">
+  <h1> Pranjali Madur</h1>
+  <h2></h2>
+  <p>Hello, This is CandleStick chart</p>
+  <p>I have the stock prices from low to high and the opening and closing prices in the plot</p>
+</div>
+{{script1 | safe}}
+{{div1 | safe}}
+{% endblock %}
